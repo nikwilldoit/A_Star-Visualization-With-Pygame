@@ -107,11 +107,11 @@ Maps are stored in a simple text format to facilitate manual editing, version co
 Example:
 
 <p align="center">
-  <img width="1179" height="779" alt="image" src="https://github.com/user-attachments/assets/470ba915-f12f-4cd5-9b09-6a6a9da440e8" />
+  <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/470ba915-f12f-4cd5-9b09-6a6a9da440e8" />
 </p>
 
 <p align="center">
-  <img width="1180" height="777" alt="image" src="https://github.com/user-attachments/assets/5beb326e-d05f-463e-8f10-c532ffb6137c" />
+  <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/5beb326e-d05f-463e-8f10-c532ffb6137c" />
 </p>
 
 ## Usage
