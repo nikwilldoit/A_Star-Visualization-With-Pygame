@@ -25,7 +25,7 @@ The goal of the presentation was to help fellow students understand how the A* a
 
 | Technology      | Purpose                                   |
 |-----------------|-------------------------------------------|
-| Python 3.x      | Primary programming language              |
+| Python 3.x      | Programming language              |
 | Pygame          | Graphics rendering and event handling     |
 | `PriorityQueue` | Managing the open set in the A* algorithm |
 | `math` module   | Calculating heuristic distances           |
@@ -106,24 +106,19 @@ Maps are stored in a simple text format to facilitate manual editing, version co
 
 Example:
 
-```text
-000000s000
-0111111100
-0100000100
-0101110100
-0100010100
-0111010100
-0000010100
-0111110100
-000000t100
-0000000000
-```
+<p align="center">
+  <img width="1179" height="779" alt="image" src="https://github.com/user-attachments/assets/470ba915-f12f-4cd5-9b09-6a6a9da440e8" />
+</p>
+
+<p align="center">
+  <img width="1180" height="777" alt="image" src="https://github.com/user-attachments/assets/5beb326e-d05f-463e-8f10-c532ffb6137c" />
+</p>
 
 ## Usage
 
 1. Run the Python script (e.g. `python main.py`).
 2. Choose input mode:
-   - Enter `y` to load from file and provide a map filename (e.g. `map.txt`).
+   - Enter `y` to load from file and provide a map filename (e.g. `10x20.txt`).
    - Enter `n` for manual setup (dimensions, start, end).
 
 ### Manual Setup
